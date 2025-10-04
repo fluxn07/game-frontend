@@ -1,0 +1,22 @@
+body { 
+    font-family: Arial; 
+    text-align: center; 
+    background-color: #f2f2f2;
+}
+
+h1 { 
+    margin-top: 20px; 
+    color: #333;
+}
+
+#uploadSection { 
+    margin: 20px 0; 
+}
+
+#gameContainer { 
+    width: 800px; 
+    height: 400px; 
+    margin: 20px auto; 
+    border: 2px solid #000; 
+    background-color: #fff;
+}
